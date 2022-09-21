@@ -28,13 +28,13 @@ An Intrusion Detection System (***IDS***) is a system that monitors network traf
 
 > If you have any queries please reach out to any of the contributors:
 
- * [***Nikunj K***](kundurunikunj@gmail.com)
+ * [***Nikunj K***](mailto:kundurunikunj@gmail.com)
 
- * [***Ravella Abhinav***](ravellaabhinav31@gmail.com)
+ * [***Ravella Abhinav***](mailto:ravellaabhinav31@gmail.com)
 
- * [***Sai Koushik***](ptsaikoushik.123@gmail.com)
+ * [***Sai Koushik***](mailto:ptsaikoushik.123@gmail.com)
 
- * [***Shanthan Reddy***](singadishanthanreddy571@gmail.com)&nbsp;
+ * [***Shanthan Reddy***](mailto:singadishanthanreddy571@gmail.com)&nbsp;
  
 &nbsp;
 &nbsp;
