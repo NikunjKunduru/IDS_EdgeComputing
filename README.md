@@ -1,1 +1,1 @@
-# IDS_EdgeComputing
+# IDS for Wearable Health Monitoring Devices
